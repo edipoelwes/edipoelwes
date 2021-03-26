@@ -24,7 +24,7 @@
   <a href="https://github.com/edipoelwes/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimiremi&layout=compact&theme=dracula"
+<!--       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimiremi&layout=compact&theme=dracula" -->
     />
   </a>
 </p>
