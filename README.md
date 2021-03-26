@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi 👋, I'm Edipo Elwes (@edipoelwes)</h1> 
 
 ### **About me:**
-<h2 align="center">- 💼 I currently web developer php & laravel and Typescript & node / react.</h2>
+<h2 align="center">- 💼 I'm currently web developer php & laravel and Typescript & node / react.</h2>
 <h3 align="center">- 👨‍💻 A passionate about backend and frontend developer.</h3>
 <h3 align="center">- 🎓 Graduated in Bachelor's degree in information systems and computer technician.</h3>
 <h3 align="center">- 🇧🇷 Live in Brazil.</h3>
